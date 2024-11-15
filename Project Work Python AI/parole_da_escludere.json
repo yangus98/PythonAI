@@ -1,0 +1,17 @@
+{
+  "parole_da_escludere":
+    [
+        "il", "lo", "la", "i", "gli", "le", "un", "uno", "una", "del", "dello", "della",
+        "dei", "degli", "delle", "al", "allo", "agli", "alle", "dal", "dallo", "dagli",
+        "dalla", "dalle", "the", "a", "an", "io", "tu", "lei", "lui", "egli", "noi", "voi",
+        "essi", "i", "you", "he", "she", "it", "we", "they", "mi", "mio", "miei", "mia",
+        "mie", "tuo", "tua", "tuoi", "suo", "sua", "suoi", "sue", "me", "my", "mine",
+        "your", "his", "her", "its", "our", "their", "this", "that", "these", "those",
+        "mi", "ti", "ci", "vi", "si", "ne", "lo", "la", "li", "le", "gli", "e", "o", "ma",
+        "anche", "che", "se", "perché", "però", "tuttavia", "bensì", "and", "or", "but",
+        "così", "dunque", "pertanto", "ormai", "inoltre", "tuttavia", "anzi", "so", "thus",
+        "therefore", "although", "hence", "of", "to", "in", "di", "non", "per", "con",
+        "da", "nel", "sul", "sui", "ad", "di", "a", "da", "in", "con", "su", "per", "tra",
+        "fra", "che", "quel", "alla", "ai", "col", "con", "è", "é"
+    ]
+}
